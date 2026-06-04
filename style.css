@@ -1,0 +1,54 @@
+.stApp{
+    background:#0f172a;
+}
+
+.main-title{
+    text-align:center;
+    color:white;
+    font-size:42px;
+    font-weight:700;
+}
+
+.sub-title{
+    text-align:center;
+    color:#94a3b8;
+    font-size:18px;
+    margin-bottom:20px;
+}
+
+.metric-card{
+    background:#1e293b;
+    padding:15px;
+    border-radius:15px;
+    text-align:center;
+    color:white;
+}
+
+.result-card{
+    background:linear-gradient(
+        135deg,
+        #06b6d4,
+        #10b981
+    );
+
+    padding:25px;
+    border-radius:15px;
+    color:white;
+    text-align:center;
+    font-size:24px;
+    font-weight:bold;
+}
+
+.skill{
+    display:inline-block;
+    padding:8px 14px;
+    margin:5px;
+    border-radius:20px;
+    background:#2563eb;
+    color:white;
+}
+
+.footer{
+    text-align:center;
+    color:#94a3b8;
+}
